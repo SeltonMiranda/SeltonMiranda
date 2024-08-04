@@ -1,6 +1,6 @@
 ## Hi there, I'm Selton Miranda Rolim 👋
  
-I make a bunch of useless stuff for this repo <br/>
+I make a bunch of useless stuff <br/>
 Currently in 2nd period on Computer Science at UFPR
 
 **"I program for the same reason people play chess"**
