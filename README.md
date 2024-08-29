@@ -5,6 +5,6 @@ Currently in 2nd period on Computer Science at UFPR
 
 **"I program for the same reason people play chess"**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeltonMiranda&theme=tokyonight&layout=compact)
-[![Selton's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeltonMiranda&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeltonMiranda&theme=tokyonight&layout=compact&card_width=400)
+[![Selton's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeltonMiranda&theme=tokyonight&)](https://github.com/anuraghazra/github-readme-stats)
 
