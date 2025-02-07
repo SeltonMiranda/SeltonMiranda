@@ -1,7 +1,7 @@
 ## Hi there, I'm Selton Miranda Rolim 👋
  
 I make a bunch of useless stuff <br/>
-Currently in 3rd period on Computer Science at UFPR
+Currently in 4th period on Computer Science at UFPR
 
 **"I program for the same reason people play chess"**
 
